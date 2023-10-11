@@ -2,9 +2,20 @@
 .layout{
     display: flex;
     flex-direction: column;
-    padding: 15vh 7vh;
+    padding: 15vh 7vh;    
+    gap: 50px;
+    width: 600px;
+}
+.layout-titles h1{
+    font-size: 40px;
+}
+.layout-titles p{
+    font-size: 21px;
 }
 
 .header-paragraph{
-    width:400px;
+    width:700px;
+}
+.header-paragraph p {
+    font-size: 1.2rem;
 }

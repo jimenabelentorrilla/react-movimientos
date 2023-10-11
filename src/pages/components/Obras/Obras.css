@@ -4,7 +4,10 @@
     justify-content: space-between;
 }
 
-
+.sticky{
+    position: sticky;
+    top:0;
+}
 /**card***/
 .card-flex{
     display: flex;

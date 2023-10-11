@@ -27,7 +27,7 @@ const Obras = () => {
   return (
     <>
         <div className='section-flex'>
-            <div>
+            <div className="sticky">
                 <h2>Obras</h2>
                 <span>representativas</span>
             </div>

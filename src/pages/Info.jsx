@@ -9,11 +9,11 @@ import Foto from "../assets/img/1.jpg";
 export const Info = () => {
   return (
     <>
+        <Search />
+        <div className='container-img'>
+            <img src={Foto} /> 
+        </div>
         <div className='flex-cnt'>
-            <Search />
-            <div className='container-img'>
-                <img src={Foto} /> 
-            </div>
             <Header />
         </div>
     </>
