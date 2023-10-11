@@ -1,7 +1,7 @@
 import React from 'react';
 import './Nav.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
+import Search from "./Search";
+
 
 const Nav = () => {
   return (
@@ -10,12 +10,7 @@ const Nav = () => {
             <div>
                 <span className="logo">Movimientos</span>  
             </div>
-            <div className="fixed">
-                <div className="search">
-                <FontAwesomeIcon icon={faMagnifyingGlass} size="2x"/>
-                    <input type="text" placeholder="Buscar" />
-                </div>
-            </div>
+            <Search />
         </nav>
     </>
   )

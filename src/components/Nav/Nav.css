@@ -19,7 +19,7 @@
     z-index: 999;
 }
 .search{
-    border-left: #00334d solid 1px;
+    border: #00334d solid 1px;
     padding: 0.7rem;
     width: 375px;
     display: flex;

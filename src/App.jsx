@@ -1,14 +1,10 @@
-import Nav from "./components/Nav/Nav";
-import Main from "./components/Main/Main";
-import Footer from "./components/Footer/Footer";
+import { AppRouter } from "./router/AppRouter";
 
 function App() {
 
   return (
     <>
-      <Nav />
-      <Main />
-      <Footer />
+      <AppRouter />
     </>
   )
 }
