@@ -1,0 +1,27 @@
+.section-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+/**card***/
+.card-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+}
+.card-img img{
+    width:120px;
+    height: 120px;
+}
+.card-title{
+
+}
+.card-subtitle{
+
+}
+.card-p{
+
+}

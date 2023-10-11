@@ -1,0 +1,10 @@
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    padding: 15vh 7vh;
+}
+
+.header-paragraph{
+    width:400px;
+}

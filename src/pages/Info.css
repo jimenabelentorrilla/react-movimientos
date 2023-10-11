@@ -1,0 +1,19 @@
+
+.flex-cnt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-img{
+    height: 100vh;
+    width: 30%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.container-img img {
+    height: 100vh;
+    object-fit: cover;
+    width: 100%;
+}
