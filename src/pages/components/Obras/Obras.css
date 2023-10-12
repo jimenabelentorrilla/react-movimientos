@@ -1,12 +1,24 @@
 .section-flex{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    gap:30px;
 }
 
 .sticky{
     position: sticky;
-    top:0;
+    top: 35px;
+    height: fit-content;
+}
+.sticky h2{
+    font-size: 1.5rem;
+}
+.sticky span{
+    font-size: 22px;
+}
+.cards-flex{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
 }
 /**card***/
 .card-flex{
@@ -20,10 +32,14 @@
     height: 120px;
 }
 .card-title{
-
+    font-size: 24px;
+    line-height: 1.8;
+    width: 400px;
 }
 .card-subtitle{
-
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.8;
 }
 .card-p{
 

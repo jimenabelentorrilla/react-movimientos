@@ -1,16 +1,19 @@
 
 .layout{
     display: flex;
-    flex-direction: column;
-    padding: 15vh 7vh;    
+    flex-direction: column;  
     gap: 50px;
-    width: 600px;
+    padding: 110px 0px;
 }
 .layout-titles h1{
-    font-size: 40px;
+    font-size: 47px;
+    font-weight: 700;
+}
+.layout-titles{
+    line-height: 1.3;
 }
 .layout-titles p{
-    font-size: 21px;
+    font-size: 22px;
 }
 
 .header-paragraph{
@@ -18,4 +21,6 @@
 }
 .header-paragraph p {
     font-size: 1.2rem;
+    line-height: 1.5;
+    font-size: Georgia, serif;
 }

@@ -31,12 +31,12 @@ const Obras = () => {
                 <h2>Obras</h2>
                 <span>representativas</span>
             </div>
-            <div>
+            <div className="cards-flex">
                 <Card 
                     img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />
+                    title="El banquete de Herodes"
+                    author="Giotto"
+                    location="Italia, 1315" />
                 <Card 
                     img={Foto}
                     title="sasasa"

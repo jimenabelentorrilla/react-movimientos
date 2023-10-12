@@ -9,14 +9,17 @@ import Foto from "../assets/img/1.jpg";
 export const Info = () => {
   return (
     <>
-        <Search />
-        <div className='container-img'>
-            <img src={Foto} /> 
-        </div>
-        <div className='flex-cnt'>
-            <Header />
+        <div>
+          <Search />
+            <div className="cont-flex">
+                <div className='container-img'>
+                  <img src={Foto} /> 
+                </div>
+                <div className='header-pad'>
+                  <Header />
+                </div>
+            </div>
         </div>
     </>
-    
   )
 }
