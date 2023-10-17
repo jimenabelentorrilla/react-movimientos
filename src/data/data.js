@@ -1041,152 +1041,152 @@ const movimientos = [
         {
             img: Image27,
             title: 'Pintura Metafisica',
-            years: "",
-            paragraph: "",
+            years: "1911",
+            paragraph: "La pintura metafísica (en italiano: Pittura metafísica) es un movimiento artístico genuinamente italiano que quiere mostrar pictóricamente una atmósfera onírica ubicada en plazas italianas desiertas, mezcladas con casuales yuxtaposiciones de objetos, enlazando todo con la mente inconsciente, más allá de la realidad física, de ahí el nombre metafísica. Evidentemente esto fue un influencia detereminante para el movimiento surrealista que surgiría años después. Lo metafísicos pretendieron explorar la vida interior del subconsciente mezclada con objetos cotidianos representados fuera de los contextos habituales. Esto da lugar a una especie de sueño pintado, un sueño bastante lúcido teniendo en cuenta el naturalismo de los objetos y arquitecturas, y el ser representados en espacios concretos. Se muestra una realidad ilógica pero verosímil. Una lógica alternativa, por así decirlo. En medio de una guerra mundial, los artistas muestran espacios misteriosamente quietos y tranquilos, silenciosos. Como apacibles sueños en color.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La canción de amor",
+                author: "Giorgio de Chirico",
+                location: "Italia, 1914"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Héctor y Andrómaca",
+                author: "Giorgio de Chirico",
+                location: "Italia, 1917"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La melancolía de la partida",
+                author: "Giorgio de Chirico",
+                location: "Italia, 1916"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Beethoven",
+                author: "Felice Casorati",
+                location: "Italia, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La casa roja",
+                author: "Carlo Carrá",
+                location: "Italia, 1927"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Naturaleza muerta, de Morandi",
+                author: "Giorgio Morandi",
+                location: "Italia, 1943"
             }
             ]
         },
         {
             img: Image28,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Surrealismo',
+            years: "1924-1966",
+            paragraph: "André Breton fue el gurú del surrealismo. Poeta de vocación, se unió al dadaísmo, pero al perder fuelle este movimiento decidió que había que continuarlo mediante una base teórica sólida. Breton había sido camillero en hospitales psiquiátricos durante la guerra, y ahí conoció tanto la obra de Sigmund Freud como conoció la extraña realidad oculta tras la locura. Breton quería, con esa locura como herramienta, unir eso de Rimbaud de «cambiar la vida» con eso de Marx de «transformar el mundo». Nace así el surrealismo que según su líder «se basa en la creencia en la realidad superior de ciertas formas de asociación desdeñadas hasta la aparición del mismo y en el libre ejercicio del pensamiento. Tiende a destruir definitivamente todos los restantes mecanismos psíquicos y a sustituirlos en la resolución de los principales problemas de la vida». En principio, esta vanguardia, aún viva hoy en día, quería incorporar los conceptos psicoanalíticos de Sigmund Freud a la mentalidad Dadá. De Freud interesaba sobre todo su investigación sobre el importante papel del subconsciente en el comportamiento humano, y por tanto en su faceta creativa. Por ello los surrealistas empezaron a dejar al subconsciente trabajar, ya fuera mediante escritura o pintura automática, por plasmar sueños, por regresar a la infancia… en definitiva por ser libre y espontáneo. Acceder al subconsciente significaba mostrar pensamientos y deseos indecorosos, plasmar imágenes chocantes para exponer la depravación del ser humano, disfrazado de civilizado por la sociedad burguesa. El surrealismo en el arte: En sus comienzos el surrealismo era un proyecto esencialmente literario, pero poco a poco fue infectando a las demás disciplinas artísticas (pintura, escultura, fotografía, cine…). Como eso del subconsciente es algo tremendamente personal, no hay un «estilo surrealista». Cada autor lo vivía a su manera, pero podemos distinguir en líneas generales dos formas de arte surrealista: Una automática, espontánea y fluída, con universos figurativos propios. Una naturalista, que muestra con figuración a veces hiperrealista el mundo de los sueños y el inconsciente. El arte surrealista suele ser incongruente, onírico y muy original, en el sentido que el artista muestra su faceta más individual, aunque es curioso, pues el arte surrealista tiene algo universal, que todos podemos entender. Hasta los niños pueden captar si algo es surrealista o no. Con el movimiento ya establecido en los años 30, y con los más extraordinarios artistas apoyándolo, Breton se convirtió en una especie de papa. Tan celoso era de la pureza de su teoría que realizaría purgas a todo aquel que cuestionara sus postulados. Serían expulsados del movimiento figuras tan brillantes como Dalí o Artaud.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Los valores personales",
+                author: "René Magritte",
+                location: "Bélgica, 1951"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Reminiscencia Arqueológica Del Angelus De Millet",
+                author: "Salvador Dali",
+                location: "España, 1934"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Gato y pájaro",
+                author: "Paul Klee",
+                location: "Alemania, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Extinción de luces inútiles",
+                author: "Yves Tanguy",
+                location: "Francia, 1927"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Cacatúa Juan Gris N°4",
+                author: "Joseph Cornell",
+                location: "Estados Unidos, 1954"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El hombre que camina",
+                author: "Alberto Giacometti",
+                location: "Suiza, 1961"
             }
             ]
         },
         {
             img: Image29,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Orfismo',
+            years: "1911-1914",
+            paragraph: "Guillaume Apollinaire bautiza en 1913 a esta tendencia colorista y abstracta del cubismo parisino que exalta ante todo el color y la luz. Lo hace en parte para distanciarse del frenesí futurista que estaba arrasando París y que él consideraba «una bobada». El Orfismo viene de Orfeo, tan virtuoso con la lira que conectaba con el alma. El arte de esta gente pretendía precisamente eso: cuadros que vibraran en armonía y tono, como una composición musical. Esto conecta con los postulados del arte abstracto, que se había inspirado en la música, y de hecho el orfismo es considerado una pre-abstracción, ya que la música, sino está acompañada de palabras, es absolutamente abstracta. Prescindir de elementos figurativos y trabajar solo con color y luz, ese era la idea. De hecho, en las obras orfistas a veces no se sabe de qué se está hablando. A veces son formas indefinibles en las que el color es el único tema del cuadro, por lo que están incluidas en el eterno debate de cuál fue la primera obra abstracta.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La Ciudad",
+                author: "Fernand Leger",
+                location: "Francia, 1919"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Adoración",
+                author: "Diego Rivera",
+                location: "México, 1913"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Pesca (pescadores)",
+                author: "Natalia Goncharova",
+                location: "Rusia, 1909"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La taladradora",
+                author: "Frantisek Kupka",
+                location: "República Checa, 1929"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Ritmo infinito",
+                author: "Robert Delaunay",
+                location: "Francia, 1934"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Mujer portuguesa",
+                author: "Robert Delaunay",
+                location: "Francia, 1916"
             }
             ]
         },
         {
             img: Image30,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Neoplasticismo',
+            years: "1917-1931",
+            paragraph: "O constructivismo holandés también llamado De Stijl. Es un nuevo (neo) enfoque de las artes plásticas (plasticismo) basado en relaciones universales. ¡Qué difícil es destilar todo lo que sabemos y sentimos en un sistema simplificado! Pues eso intento Piet Mondrian. Uniendo cubismo y teosofía, reivindicó un proceso de abstracción progresiva donde las formas se irían reduciendo a líneas rectas horizontales y verticales, y los colores a los tres primarios, el blanco y el negro. No existe la profundidad, no existe ningún tipo de referencia figurativa, no existe ni siquiera una simbología. El neoplasticismo es arte puro: línea y color, unidas en un mismo espacio. Para los neoplasticistas era imprescindible rechazar cualquier motivo reconocible, no se debía imitar la vida real. Consideraban que el arte forma ya parte de la vida real, así que no es necesaria su imitación. La abstracción en este y otros estilos, coincidentes en el tiempo en Europa, era una forma de contribuir a un mundo nuevo y mejor después de una horrible guerra mundial… Aunque quedaba por venir otra…",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Broadway Boogie Woogie",
+                author: "Piet Mondrian",
+                location: "Países Bajos, 1943"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Composición en Blanco y Negro",
+                author: "Piet Mondrian",
+                location: "Países Bajos, 1917"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Composición en rojo, amarillo y azul",
+                author: "Piet Mondrian",
+                location: "Países Bajos, 1921"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Entender a Mondrian: Naturaleza muerta con tarro de jengibre",
+                author: "Piet Mondrian",
+                location: "Países Bajos, 1912"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Bosque",
+                author: "Piet Mondrian",
+                location: "Países Bajos, 1908"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "De Stijl 1",
+                author: "Peter Keler",
+                location: "Alemania, 1922"
             }
             ]
         },
