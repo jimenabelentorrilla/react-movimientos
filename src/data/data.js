@@ -394,653 +394,653 @@ const movimientos = [
         },
         {
             img: Image10,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Realismo',
+            years: "1840–1870",
+            paragraph: "Efectivamente, los realistas repudiaban a los idealistas. El subjetivismo empezaba a agotar a los artistas que buscan algo más directo, más subjetivo, más colectivo. Francia vuelve a ser el lugar de origen de un movimiento revolucionario como este, que pese a mostrar la cruda realidad, no lo hacen académicamente, sino todo lo contrario. Los realistas rechazan lo exageradamente emocional, es decir, lo sentimental. Rechazan lo exótico porque quieren mostrar lo cercano. ¿Y qué hay más cercano que la vida cotidiana, el día a día, la rutina, el trabajo…? Es por ello que este movimiento adopta una postura activamente política, denunciando las injusticias sociales y comprometiéndose con las clases bajas y los movimientos políticos de izquierda. El costumbrismo se convierte para los realistas un tema mayor para la pintura, así como el paisaje, y otros géneros como el desnudo eliminan todo idealismo, convirtiéndose a veces en lo que muchos consideraron arte obsceno.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Vagón de tercera clase",
+                author: "Honoré Daumier",
+                location: "Francia, 1864"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El Ángelus",
+                author: "Jean Francois Millet",
+                location: "Francia, 1859"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Descanso al mediodía",
+                author: "Jean Francois Millet",
+                location: "Francia, 1866"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El desesperado",
+                author: "Gustave Courbet",
+                location: "Francia, 1845"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Procesión religiosa en Kursk",
+                author: "Ilya Repin",
+                location: "Rusia, 1883"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La comida de los segadores (Ruth y Booz)",
+                author: "Jean Francois Millet",
+                location: "Francia, 1853"
             }
             ]
         },
         {
             img: Image11,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Impresionismo',
+            years: "1872-1882",
+            paragraph: "De nuevo un crítico que cita peyorativamente un cuadro pone nombre a un movimiento, en este caso «Impresión: sol naciente» de Monet. La pintura impresionista nace a partir de la segunda mitad del siglo XIX y quiere, a grandes rasgos, plasmar la luz y el instante, sin importar demasiado la identidad de aquello que la proyectaba. Las cosas no se definen, sino que se pinta la impresión visual de estas cosas, y eso implica que las partes inconexas dan lugar a un todo unitario (algo que años después demostraría científica y psicológicamente la Gestalt). Resumiendo, este movimiento se caracteriza por el uso de colores puros sin mezclar («todo color es relativo a los colores que le rodean»), el hecho de no ocultar la pincelada, y por supuesto darle protagonismo ante todo a la luz y el color. De esta manera las formas se diluyen imprecisas dependiendo de la luz a la que están sometidas, y una misma forma cambia dependiendo de la luz arrojada sobre ellas, dando lugar a una pintura totalmente distinta. Por ello, y a partir de los paisajistas de la escuela de Barbizon, los impresionistas se centraron en la pintura al aire libre, buscando plasmar el cambio de la luminosidad, el instante.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Paseo por el acantilado de Pourville",
+                author: "Claude Monet",
+                location: "Francia, 1882"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El balcón",
+                author: "Edouard Manet",
+                location: "Francia, 1869"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Almuerzo en la hierba",
+                author: "Edouard Manet",
+                location: "Francia, 1863"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Cosechadores",
+                author: "Anna Ancher",
+                location: "Dinamarca, 1905"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El Café-Concierto",
+                author: "Edouard Manet",
+                location: "Francia, 1879"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Miss La La en el Circo Fernando",
+                author: "Edgar Degas",
+                location: "Francia, 1879"
             }
             ]
         },
         {
             img: Image12,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Postimpresionismo',
+            years: "1880-1910",
+            paragraph: "El postimpresionismo es una palabra artificial, lógicamente. Se acuñó a posteriori, cuando los artistas postimpresionistas estaba ya muertos. Ningún postimpresionista era consciente de estar en el postimpresionismo. Estilísticamente no hay un rasgo definitorio que una a estos autores, pero en general todos los postimpresionistas utilizaron colores vivos, pinceladas poco discretas y unas temáticas basadas en la vida real. Todos ellos intentaron también dar un paso más en cuanto emoción y expresión a la pintura y todos presentaron una visión particular de la naturaleza… una visión subjetiva del mundo. El término postimpresionismo nace en 1910, cuando se hace una exposición en Londres coimisariada por el crítico Roger Fry llamada precisamente así para unificar un poco la muestra de cuadros de Van Gogh, Gauguin, Seurat y Cezanne. ¡Y vaya exposición! Estamos hablando nada menos que de los cuatro pilares del arte moderno posterior. Simplificando las cosas un poco, de Van Gogh surgió el expresionismo, de Gauguin el primitivismo, de Cezanne el cubismo y de Seurat el fauvismo. La exposición fue un desastre, un fracaso de crítica y público. Sin embargo, seguimos usando el término postimpresionismo para referirnos a este «estilo» de los años 80–90 del siglo XIX.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Marina con vaca",
+                author: "Paul Gauguin",
+                location: "Francia, 1888"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Dormitorio en Arlés",
+                author: "Vincent Van Gogh",
+                location: "Países Bajos, 1888"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Separación",
+                author: "Edvard Munch",
+                location: "Noruega, 1896"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Noche estrellada",
+                author: "Vincent Van Gogh",
+                location: "Paises Bajos, 1889"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Bodegón: Jarrón con lirios contra un Fondo Amarillo",
+                author: "Vincent Van Gogh",
+                location: "Países Bajos, 1890"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Incendios",
+                author: "Felix Vallotton",
+                location: "Suiza, 1911"
             }
             ]
         },
         {
             img: Image13,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Simbolismo',
+            years: "1880-1910",
+            paragraph: "Jean Moréas, en «Un manifiesto literario» (1886), define al nuevo estilo como «enemigo de la enseñanza, la declamación, la falsa sensibilidad, la descripción objetiva…». El simbolismo es misterio, un sueño, un enigma… Frente a la sociedad industrial que ya se estaba estableciendo, se propugna un arte poético, porque en realidad de ahí viene todo, de Las flores del mal de Baudelaire. Hartos de tanto realismo, los artistas simbolistas vuelven a escapar de la realidad, buscando lo onírico, experimentando con drogas, volviendo de alguna manera al romanticismo de William Blake, los nazarenos y los prerrafaelitas. Por eso, es muy difícil englobar estéticamente a los simbolistas en un conjunto concreto y estéril. Cada uno iba a su bola. Lo que sí parece es que todos practicaron un arte antinaturalista, casi siempre espiritual, desatando a fantasía y la subjetividad frente a la objetividad científica de impresionistas y neo-impresionistas. Y todo mediante el símbolo, su herramienta para la expresión del estado de ánimo, de las emociones y de las ideas del individuo. Todo esto evolucionaría hasta movimientos posteriores como los nabis, el Art nouveau o el surrealismo.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La peste",
+                author: "Arnold Bocklin",
+                location: "Suiza, 1898"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Palas Atenea",
+                author: "Gustav Klimt",
+                location: "Austria, 1898"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Diomedes devorado por sus caballos",
+                author: "Gustave Moreau",
+                location: "Francia, 1865"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Estación eléctrica en Jajce de noche",
+                author: "Tivadar Kosztka Csontvary",
+                location: "Hungria, 1903"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El pensador",
+                author: "Auguste Rodin",
+                location: "Francia, 1882"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Sauna",
+                author: "Zinaida Serebriakova",
+                location: "Rusia, 1913"
             }
             ]
         },
         {
             img: Image14,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Primitivismo',
+            years: "1885",
+            paragraph: "El arte moderno le debe mucho a los pueblos primitivos: el arte prehistórico, el arte no occidental (aunque llamarle primitivo es bastante condescendiente). Una máscara africana, una momia peruana… todo lo que no estaba corrompido por la mirada occidental de las cosas fue un punto de partida para numerosos artistas modernos. Nada más moderno hay que volver a los orígenes y conseguir esa inocencia de los primitivos, esa «regresión deliberada» (en palabras de Gombrich). El primitivismo por tanto, más que un movimiento artístico delimitado es una corriente, una inspiración para artistas de todas las épocas. Primitivismo es también lo infantil, el naïf, lo arcaico, lo popular, lo espontáneamente ingenuo… Casi siempre está hecho por artistas autodidactas, que frente a la técnica llenan su obra de un arte intuitivo y sugerente.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El hombre que camina",
+                author: "Alberto Giacometti",
+                location: "Suiza, 1961"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Las dos Fridas",
+                author: "Frida Kahlo",
+                location: "México, 1939"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Diego en mi pensamiento",
+                author: "Frida Kahlo",
+                location: "México, 1943"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Desnudo en sofá (Almaisa)",
+                author: "Amedeo Modigliani",
+                location: "Italia, 1916"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Vista del MASP",
+                author: "Agostinho Batista de Freitas",
+                location: "Brasil, 1987"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Foca",
+                author: "Constantin Brancusi",
+                location: "Rumania, 1943"
             }
             ]
         },
         {
             img: Image15,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Art Nouveau',
+            years: "1890-1905",
+            paragraph: "Es la renovación artística desarrollada a caballo entre los siglos XIX y XX. Era el fin de siècle o la belle époque… Dependiendo del país se conoció como Art Nouveau (Bélgica y Francia), Jugendstil (Alemania y países nórdicos), Sezession (Austria), Modern Style (Reino Unido), Nieuwe Kunst (Países Bajos), Liberty o Floreale (Italia) y Modernismo (España). Todas hacen referencia a la intención de crear un arte nuevo, joven, libre y moderno. Una vez más, y como todos los movimientos, una ruptura con lo anterior, teniendo presente una idea clara: «el futuro ya ha comenzado» Se valora lo artesanal aunque sin renunciar a los avances industriales, y se repira una aspiración de democratizar la belleza o socializar el arte. Para ello se potenció la idea de que hasta los objetos más cotidianos deben tener un valor estético, además de ser accesibles a toda la población. Por eso empiezan a hacerse visibles todo tipo de objetos útiles en la vida cotidiana, incluido el mobiliario urbano, que pasó a tener gran importancia (kioscos, estaciones de metro, farolas, papeleras, urinarios​…). Desaparece así la jerarquía de artes mayores y menores. Tiene el mismo valor un edificio que una joya, un cartel que un cuadro. De hecho, los propios artistas realizan los marcos para sus cuadros, los arquitectos diseñan también los muebles. Estéticamente hay una evidente inspiración en la naturaleza: vegetales y las formas orgánicas se entrelazan con el motivo central; la línea recta no interesa, se prefieren las curvas y la asimetría; todo es más sensual, buscando complacer a los sentidos. Es así que flores, hojas, tallos retorcidos, insectos, cabellos femeninos, rellenan todo el espacio (horror vacui).",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Polifemo pescando",
+                author: "Max Pietschmann",
+                location: "Alemania, 1892"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Ramón Casas y Pere Romeu en automóvil",
+                author: "Ramón Casas",
+                location: "España, 1901"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Judit",
+                author: "Gustav Klimt",
+                location: "Austria, 1901"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Otoño",
+                author: "Ivan Milev",
+                location: "Bulgaria, 1925"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Ahinora",
+                author: "Ivan Milev",
+                location: "Bulgaria, 1925"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Gismonda",
+                author: "Alfons Mucha",
+                location: "República Checa, 1894"
             }
             ]
         },
         {
             img: Image16,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Art Decó',
+            years: "1900-1945",
+            paragraph: "Desarrollado en París y más tarde cultivado en Hollywood como el estilo de las estrellas, fue durante años el símbolo del glamour. El punto álgido del Art Decó fue en el periodo entre las dos guerras mundiales y unió a todas las artes (decorativas, gráficas, arquitectura, joyería, escultura, pintura, cine…) en un amalgama de difícil definición que engloba desde gigantescos rascacielos a pequeños objetos, incluyendo iconos tas reconocibles como el Oscar de Hollywood o el robot de Metropolis (1927) de Fritz Lang.… Todo lo tocó, influyendo en la cultura de su tiempo y guiando la estética en nuevas y revolucionarias direcciones. El diseño industrial, la tipografía, la publicidad o la moda no serían iguales sin este movimiento. Se juntan muchos estilos y movimientos vanguardistas para crear un estilo de la «edad de la máquina», menos orgánico que el Art Nouveau, por lo que ahora las líneas son rectas y gusta la simetría. El Art Decó es monumentalidad tomada del Antiguo Egipto, ingeniería aerodinámica e iluminación eléctrica tomada del futurismo, las formas fraccionadas del cubismo, los colores fauvistas, la geometrización de la Bauhaus… Este marcado eclecticismo (porque de eso se trata el Art Decó) es fiel a su época de grandes cambios tecnológicos, políticos y sociales. Es burgués (casi puramente decorativo) y nos habla del progreso, la elegancia, lo opulento, lo exagerado, casi como una reacción contra la austeridad forzada a causa de la Primera Guerra Mundial. El Art Decó es hedonista: una vía de escape ideal para fiestas con jazz y cocaína. Evidentemente entró en decadencia con la II Guerra (si es que alguna vez no fue un arte decadente), pero aún hoy se hacen cosas de ese estilo, que nunca dejó de existir desde entonces.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Maternidad",
+                author: "Tamara de Lempicka",
+                location: "Polonia, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Sauna",
+                author: "Zinaida Serebriakova",
+                location: "Rusia, 1913"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Louise Brooks",
+                author: "Eugene Robert Richee",
+                location: "Estados Unidos, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Alba",
+                author: "Maxfield Parrish",
+                location: "Estados Unidos, 1922"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Adán y Eva",
+                author: "Tamra de Lempicka",
+                location: "Polonia, 1932"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Castillo de naipes",
+                author: "Zinaida Serebriakova",
+                location: "Rusia, 1919"
             }
             ]
         },
         {
             img: Image17,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Orientalismo',
+            years: "1750-1956",
+            paragraph: "El orientalismo más que un movimiento, fue un ardor, un ardor longevo que duro tres siglos, alcanzando a multitud de disciplinas, estilos y artistas…, una preocupación importante, concluyó Victor Hugo. Preocupación que emergió al calor del combo neoclasicismo + romanticismo, ofreciendo el academicismo la mayor gloria al género. Asociado inevitablemente al siglo XIX, tuvo su precuela en la centuria anterior, cuando Europa observó con ojos curiosos al vecino de la derecha, un Imperio otomano que se descomponía. Era una necesidad urgente que una dama de clase alta —o muy esnob con recursos— se hiciese retratar con un buen turbante sepultada entre sedas adamascadas. Las «turquerías» es el comienzo de todo. Aunque fue con las campañas expansionas inglesas, y en especial la napoleónica en Siria y Egipto, cuando el norte de África y Oriente Medio se convierten en los territorios que narcotizan a Europa. La cosa finaliza oficialmente en 1956, cuando Francia abandona Marruecos. Ser orientalista significaba lanzarse a explorar el este, no obstante, algunos pintores jamas salieron del estudio, dedicándose a imaginar, ayudados por la literatura de viajes o alguna lámina o daguerrotipo venido de allá. De hecho, el orientalismo es algo imaginado. La pintura se utilizó sabiamente como propaganda de esas potencias imperialistas para legitimarse en aquellas tierras bárbaras, apoyadas por una clase acomodada y capitalista en busca del contraste con la ilustración de sus vidas. En tierras islámicas se buscaba lo desconocido, lo misterioso y sobre todo, lo prohibido, asumiendo sus aberraciones culturales e inferioridad intelectual y moral. Así, los salones de aquellos países grises e industrializados se poblaron con el desorden de populosos zocos, con combates tribales a caballo y de ricas medinas medievales, de desiertos eternos u oasis con tiendas de nómadas, de arquitecturas cupuladas y esbeltos minaretes, con escenas cortesanas o cotidianas, festividades populosas y llamadas a la oración… El erotismo femenino —de amplio espectro racial— se cultivó masivamente en contextos de esclavitud, gineceos y baños comunales, sirviendo como húmedo subterfugio a la castrada sociedad cristiana del momento.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La batalla de Tetuan",
+                author: "Mariano Fortuny",
+                location: "España, 1865"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La fuente",
+                author: "Jean Auguste Dominique Ingres",
+                location: "Francia, 1856"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La gran odalisca",
+                author: "Jean Auguste Dominique Ingres",
+                location: "Francia, 1814"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La mezquita (fiesta árabe)",
+                author: "Pierre-Auguste Renoir",
+                location: "Francia, 1881"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Giaour a caballo",
+                author: "Eugene Delacroix",
+                location: "Francia, 1826"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Un marroquí",
+                author: "Mariano Fortuny",
+                location: "España, 1869"
             }
             ]
         },
         {
             img: Image18,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Fauvismo',
+            years: "1905-1908",
+            paragraph: "La primera vanguardia. El muy conservador crítico Louis Vauxcelles escribe: «Donatello parmi les Fauves» (Donatello entre las fieras) cuando ve la exposición del Salón de Otoño de 1905. Fauvismo es liberar el color con respecto al dibujo, ignorar claroscuros y perspectivas, expresar sentimientos… Era gente inconformista, que como todo buen artista de vanguardia, quiere liberarse de todo lo anterior y no ser sumiso ante la herencia pictórica. El color es la clave, directamente del tubo, obviando la mímesis y aplicándolo en toques rápidos y vigorosos, dotando a la obra de una sensación de espontaneidad.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Invierno I",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1909"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La danza",
+                author: "Henri Matisse",
+                location: "Francia, 1910"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Curva en el camino",
+                author: "André Derain",
+                location: "Francia, 1906"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La ventana abierta",
+                author: "Henri Matisse",
+                location: "Francia, 1905"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Puente de Charing Cross",
+                author: "André Derain",
+                location: "Francia, 1906"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Retrato de Matisse",
+                author: "André Derain",
+                location: "Francia, 1905"
             }
             ]
         },
         {
             img: Image19,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Futurismo',
+            years: "1909-1920",
+            paragraph: "Es desde Italia donde lanzaremos al mundo este manifiesto nuestro de violencia atropelladora e aventureros que huelen el horizonte, en las locomotoras de pecho ancho que pisan los raíles como enormes caballos de acero embridados de tubos y al vuelo resbaladizo de los aviones cuya hélice cruje al viento como una bandera y parece que aplauda como una loca demasiado entusiasta.incendiaria, con el cual fundamos hoy el «futurismo», porque queremos liberar este país de su fétida gangrena de profesores, de arqueólogos, de cicerones y de anticuarios. Ya durante demasiado tiempo Italia ha sido un mercado de antiguallas. Nosotros queremos liberarla de los innumerables museos que la cubren toda de cementerios innumerables.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Tren blindado en acción",
+                author: "Gino Severini",
+                location: "Italia, 1915"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Disturbios en la Galeria",
+                author: "Umberto Boccioni",
+                location: "Italia, 1910"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El alma de la ciudad sin alma",
+                author: "Christopher Nevinson",
+                location: "Reino Unido, 1920"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Antes de que se abra el paracaídas",
+                author: "Tullio Crali",
+                location: "Italia, 1939"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Nuevo Planeta",
+                author: "Konstantin Yuon",
+                location: "Rusia, 1921"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Chica Corriendo en el Balcón",
+                author: "Giacomo Balla",
+                location: "Italia, 1912"
             }
             ]
         },
         {
             img: Image20,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Expresionismo',
+            years: "1905-1933",
+            paragraph: "El expresionismo fue un movimiento de vanguardia surgido en Alemania a principios del siglo XX, coincidiendo con el fauvismo francés, con el que tiene no pocos puntos en común (rechazo de la mímesis, colores violentos…) Sin embargo difiere de este movimiento por tener un matiz más pesimista, más feo, por así decirlo, ya que los expresionistas alemanes no escatimaron en mostrar lo morboso, lo prohibido, lo obsceno… El expresionismo viene a ser una deformación de la realidad para expresarla de forma más subjetiva (aunque en definitiva, esa puede ser una definición válida del arte: una deformación de la realidad…). Se quieren mostrar sentimientos, emociones, algo que ilustre la naturaleza y el ser humano. Expresionistas, como deformadores de la realidad, los hubo desde los principios del arte (ahí tenemos los casos de Bruegel, Goya, Van Gogh o El Greco, por citar solo algunos), pero fue en esta atmósfera pre-bélica de Alemania cuando artistas de tendencias muy diversas y diferente formación y nivel intelectual se unieron para la creación de un arte más personal e intuitivo, donde predominase la visión interior del artista —la «expresión»— frente a la plasmación de la realidad —la «impresión»—.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Niño muerto",
+                author: "Candido Portinari",
+                location: "Brasil, 1944"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Chica sentada",
+                author: "Ernst Ludwig Kirchner",
+                location: "Alemania, 1910"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Nacimiento de nuestra nacionalidad",
+                author: "Rufino Tamayo",
+                location: "México, 1952"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La nariz",
+                author: "Alberto Giacometti",
+                location: "Suiza, 1950"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Mar oscuro, cielo verde",
+                author: "Emil Nolde",
+                location: "Alemania, 1945"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Casas de Munich",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1908"
             }
             ]
         },
         {
             img: Image21,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Cubismo',
+            years: "1907-1917",
+            paragraph: "El crítico Louis Vauxcelles ya había bautizado a los fauves. En 1908 visitó una exposición de Braque y escandalizado escribe: «Son geómetras ignorantes, que reducen el paisaje y el cuerpo humano a ínsipidos cubos». Estas «bizarreries cubiques» pondrían nombre al movimiento. En realidad, en el cubismo no hay cubos. Más bien todo lo contrario. El cubismo consiste reconocer la naturaleza bidimensional del lienzo y no recrear la tridimensionalidad (cosa que precisamente pretende una figura como el cubo). Para mirar un cubo, hace falta un sólo punto de vista, y lo que querían artistas como Braque o Picasso, inspirados por Cézanne, es mirar un objeto desde todos los puntos de vista posibles. Para entendernos, es como desmontar una caja de cartón y dejarla completamente abierta en una superficie plana, mostrando todo a la vez, y entrelazado. Pero a pesar de ser pintura de vanguardia, los géneros que pintan los cubistas son de lo más clásico: bodegones, paisajes, retratos…",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El gran profeta",
+                author: "Pablo Gargallo",
+                location: "España, 1933"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La botella de anís",
+                author: "Juan Gris",
+                location: "España, 1914"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Mujer sentada con Sombrero-Pescado",
+                author: "Pablo Picasso",
+                location: "España, 1942"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Vasos y frutas",
+                author: "Pablo Picasso",
+                location: "España, 1908"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Gato devorando un pájaro",
+                author: "Pablo Picasso",
+                location: "España, 1939"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Naturaleza Muerta",
+                author: "Salvador Dalí",
+                location: "España, 1924"
             }
             ]
         },
         {
             img: Image22,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Dadaísmo',
+            years: "1916-1923",
+            paragraph: "Una de las múltiples leyendas sobre el origen del nombre dice que el porte Tristan Tzara abrió un diccionario y encontró esa palabra al azar. Y ese sea quizás lo más importante del dadaísmo: el caos, el azar… y tirando hacia lo gamberro, hacia lo escandaloso. Nada hacía más feliz a un dadaísta que escandalizar a un burgués. Dadá es anti-todo. Anti-arte, anti-literatura, anti-dadá incluso… Dadá es destrucción. Una destrucción creativa si se quiere, pero destrucción. Quizás por ello no duró demasiado como movimiento. Sin embargo, este mensaje se expande, y poco a poco va repercutiendo en todos los campos artísticos. El caos, el azar, lo imperfecto… eso es la belleza. Después de todo, ¿no es así la vida real?. Los ecos del dadá retumban fuertes aún hoy en día y su influencia se percibe claramente en corrientes culturales posteriores: el surrealismo (una especie de dadaísmo con consistencia teórica), los situacionistas de los 50 (vandalismo, graffitti, slogans…), el Arte Pop, los Hippies, el Punk (nihilisimo, provocación, molestar a los padres, tipografías…), el Street Art, lo posmoderno… Todos deudores del sinsentido dadaísta.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El violín de Ingres",
+                author: "Man Ray",
+                location: "Estados Unidos, 1924"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Jeu de Massacre",
+                author: "Fred Carasso",
+                location: "Países Bajos, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El espíritu de nuestro tiempo - cabeza mecánica",
+                author: "Raoul Hausmann",
+                location: "Austria, 1919"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Santa Claus",
+                author: "Kurt Schwitters",
+                location: "Alemania, 1922"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La novia (Pandora)",
+                author: "Hannah Hoch",
+                location: "Alemania, 1927"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Novecento",
+                author: "Maurizio Cattelan",
+                location: "Italia, 1997"
             }
             ]
         },
         {
             img: Image23,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Nueva Objetividad',
+            years: "1919-1933",
+            paragraph: "El crítico Gustav Friedrich Hartlaub acuña el término Die Neue Sachlichkeit en 1923 y afirma: «el objetivo es superar las mezquindades estéticas de la forma a través de una nueva objetividad nacida del disgusto hacia la sociedad burguesa de la explotación» o «…lo que aquí estamos mostrando se distingue por las, en sí mismas puramente externas, características de la objetividad con la que los artistas se expresan ellos mismos…». El grupo Neue Sachlichkeit (Nueva Objetividad) reaccionó contra el expresionismo y vuelve a una figuración «realista». Entrecomillamos realista porque es una plasmación objetiva de la realidad, con acento en lo social. Objetiva en el sentido de ser menos experimental en cuanto a búsqueda de nuevos lenguajes, menos introspectiva, y de ser más comprometido y directo. Y lo objetivo para esta gente no es restarle el carácter grotesco de deformación de la realidad y caricaturización del expresionismo. Todo lo contrario. Quiere ser un arte útil para el desarrollo de la sociedad, y por ello ilustraron la realidad de la posguerra alemana. Mucha denuncia social para desenmascarar la sociedad burguesa, para condenar a los políticos y militares que llevaron Alemania al desastre de la guerra. De poco sirvió… 10 años después de su creación, la Alemania Nazi acaba con el movimiento.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Autómatas republicanos",
+                author: "George Grosz",
+                location: "Alemania, 1920"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Operación",
+                author: "Christian Schad",
+                location: "Alemania, 1929"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Cactus y semáforos",
+                author: "Georg Scholz",
+                location: "Alemania, 1923"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Agricultores industriales",
+                author: "Georg Scholz",
+                location: "Alemania, 1920"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El acróbata Schulz V",
+                author: "Albert Birkle",
+                location: "Alemania, 1921"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Tonta Muerte, mi compañera de juegos",
+                author: "Franz Fiedler",
+                location: "República Checa, 1922"
             }
             ]
         },
         {
             img: Image24,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Suprematismo',
+            years: "1913-1922",
+            paragraph: "Por mucho que no se diga, los rusos fueron pioneros en arte en los primeros años del siglo XX. Y uno de los creadores más vanguardistas de esos primeros años fue el pintor Kazimir Malévich, que promovía nada menos que la abstracción. Un universo sin objetos. Sin indicio visual posible. Arte no descriptivo. Quizás conseguir representar «la nada», que viene a ser representarlo todo. Pero… ¿cómo representar la nada?. Pues sencillamente no se puede, pero sí se puede crear arte centrado sólo en las propiedades físicas de la propia obra. De esa manera quizás el espectador podría llegar a la pura y simple sensación. Los suprematistas simplifican, ordenan todo, reducen los colores y, así, quizás los espectadores de una obra nos olvidemos que estamos ante una representación, sino ante todo el universo reducido en un cuadrado.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Cuadrado negro sobre fondo blanco",
+                author: "Kazimir Malevich",
+                location: "Ucrania, 1915"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Esfera de color y círculo",
+                author: "Alexander Rodchenko",
+                location: "Rusia, 1918"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Las primeras pinturas abstractas",
+                author: "Alphonse Allais",
+                location: "Francia, 1889"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Blanco sobre blanco",
+                author: "Kazimir Malevich",
+                location: "Ucrania, 1918"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La muerte de la pintura",
+                author: "Alexander Rodchenko",
+                location: "Rusia, 1921"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Golpead a los blancos con la cuña roja",
+                author: "El Lissitzky",
+                location: "Rusia, 1920"
             }
             ]
         },
         {
             img: Image25,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Constructivismo',
+            years: "1915-1935",
+            paragraph: "El suprematismo estaba muy bien, pero ¿era útil para el pueblo ruso, en su mayoría analfabeto?. La respuesta era evidente. Ni siquiera hoy en día entendemos de todo lo que querían decir esos místicos radicales experimentando con geometrías. Lo que había que hacer es llevar el suprematismo a las masas y que el arte trascendiera la ideología política. El constructivismo supuso una identidad visual para el comunismo soviético y tuvo como objetivo principal llevar el arte al pueblo rescatándolo de las élites. Eso no significa en modo alguno el cese de la experimentación. Los constructivistas se centraron en todos los ámbitos creativos y exprerimentaron con todas las disciplinas, técnicas y nuevas tecnologías, además de continuar la experimentación geométrica suprematista. Más que arte para ser mostrado en una galería burguesa, el constructivismo hizo arte para el pueblo mezclando todas las artes en un amalgama utópico de diseño, ingeniería, arquitectura, pintura, escultura…",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "El Ejército Rojo",
+                author: "Varvara Stepanova",
+                location: "Rusia, 1930"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Diseños textiles de Varvara Stepanova",
+                author: "Varvara Stepanova",
+                location: "Rusia, 1924"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Vestido de Popova",
+                author: "Liubov Popova",
+                location: "Rusia, 1924"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Jeu de Massacre",
+                author: "Fred Carasso",
+                location: "Paises Bajos, 1928"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Lord Kitchener Wants You",
+                author: "Alfred Leete",
+                location: "Reino Unido, 1914"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La propaganda de Rodchenko",
+                author: "Alexander Rodchenko",
+                location: "Rusia, 1925"
             }
             ]
         },
         {
             img: Image26,
-            title: '',
-            years: "",
-            paragraph: "",
+            title: 'Arte Abstracto',
+            years: "1910",
+            paragraph: "El arte abstracto es el contrario del figurativo (es decir, la representación de objetos identificables mediante imágenes reconocibles). Por tanto la abstracción no representa «cosas» concretas de la naturaleza sino que propone una nueva realidad. Propone un «arte puro» mirando más allá de nuestra realidad. Si bien desde el primer arte elaborado por el ser humano ya tenemos ejemplo de abstracción (desde las cuevas prehistóricas hasta las decoraciones en iglesias románicas), es oficialmente Kandinsky el primero en teorizar sobre esto (aparte tenemos a los neoplasticistas o a los suprematistas, y un poco antes figuras aisladas como la de Hilma af Klint). El arte abstracto existe independientemente de la realidad, la aleja. El arte abstracto no representa nada en realidad, pero como eso es imposible (¡hasta un lienzo en blanco representa algo!) los artistas abstractos tiraron (tiran) por dos vertientes diferenciadas: Por un lado al arte abstracto expresivo: subjetivo y espontáneo, improvisado a veces, donde el protagonismo es de la expresividad del artista, que prescinde de estructura y se vuelca en el gesto, el material y el sentimiento que provoca la obra. Es por tanto altamente ambigüo e interpretable. Por otro está el arte abstracto geométrico: que pretende ser objetivo y universal, planificado, en la que la composición es estructurada y que evita toda expresividad mediante el uso de la geometría. Suele defender una factura impersonal y pretende evocar claridad y precisión.",
             obras: [
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Negro y violeta",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1923"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Pintura amarilla",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1938"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Casas de Munich",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1908"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "La estrella matinal",
+                author: "Joan Miró",
+                location: "España, 1940"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Muchos círculos",
+                author: "Wassily Kandinsky",
+                location: "Rusia, 1926"
             },
             {
-                title: "",
-                author: "",
-                location: ""
+                title: "Foca",
+                author: "Constantin Brancusi",
+                location: "Rumania, 1943"
             }
             ]
         },
         {
             img: Image27,
-            title: '',
+            title: 'Pintura Metafisica',
             years: "",
             paragraph: "",
             obras: [
