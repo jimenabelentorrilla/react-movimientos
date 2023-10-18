@@ -1,6 +1,6 @@
 import React from 'react';
 import './Main.css';
-import Items from "./data.js";
+import Items from "./data.js"; 
 
 
 const Item = ({ img, title, years }) => {
@@ -28,12 +28,13 @@ const Main = () => {
                 Items.map(movimiento => {
 
                     return (
-                        <Item
+                        
+                            <Item
                             img={movimiento.img}
                             title={movimiento.name}
                             years={movimiento.year}
                             key={movimiento.id}
-                        />
+                        />                        
                     )
                 })
             }
