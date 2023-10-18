@@ -1,6 +1,8 @@
 import React from 'react';
 import './Main.css';
-import Items from "./data.js"; 
+import Movimientos from '../../data/data';
+
+import { Link } from 'react-router-dom';
 
 
 const Item = ({ img, title, years }) => {
@@ -25,16 +27,21 @@ const Main = () => {
     <>
         <div className='galeria'>
             {
-                Items.map(movimiento => {
+                Movimientos.map(movimiento => {
 
                     return (
+                        <Link
                         
+                        to="/info">
+
                             <Item
                             img={movimiento.img}
-                            title={movimiento.name}
-                            years={movimiento.year}
+                            title={movimiento.title}
+                            years={movimiento.years}
                             key={movimiento.id}
-                        />                        
+                        />   
+                        </Link>
+                                                 
                     )
                 })
             }

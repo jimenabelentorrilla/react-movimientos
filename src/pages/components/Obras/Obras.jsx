@@ -1,6 +1,7 @@
 import React from 'react';
 import './Obras.css';
 import Foto from "../../../assets/img/1.jpg";
+import Movimientos from '../../../data/data';
 
 
 
@@ -32,36 +33,21 @@ const Obras = () => {
                 <span>representativas</span>
             </div>
             <div className="cards-flex">
-                <Card 
-                    img={Foto}
-                    title="El banquete de Herodes"
-                    author="Giotto"
-                    location="Italia, 1315" />
-                <Card 
-                    img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />
-                <Card 
-                    img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />
-                <Card 
-                    img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />
-                <Card 
-                    img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />
-                <Card 
-                    img={Foto}
-                    title="sasasa"
-                    author="sasasa"
-                    location="sassaa" />                    
+            {
+                Movimientos.map(movimiento => {
+
+                    return (
+                        
+                            <Card
+                                img={Foto}
+                                title={movimiento["obras"][0]["title"]}
+                                author={movimiento["obras"][1]["author"]}
+                                location={movimiento["obras"][2]["location"]}
+                                key={movimiento.id} 
+                            />                                                 
+                    )
+                })
+            }                  
             </div>
         </div>
         

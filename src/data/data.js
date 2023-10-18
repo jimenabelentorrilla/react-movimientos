@@ -49,8 +49,9 @@ import Image48 from "../assets/img/48.jpg";
 import Image49 from "../assets/img/49.jpg";
 
 
-const movimientos = [
+const Movimientos = [
     {
+        id: "1",
         img: Image1,
         title: 'Proto-Renacimiento',
         years: "1300–1400",
@@ -89,6 +90,7 @@ const movimientos = [
       ]
     },
     {
+        id: "2",
         img: Image2,
         title: 'Quatroccento',
         years: "1400–1500",
@@ -127,6 +129,7 @@ const movimientos = [
         ]
     },
     {
+            id: "3",
             img: Image3,
             title: 'Cinquecento',
             years: "1530–1600",
@@ -165,6 +168,7 @@ const movimientos = [
             ]
         },
         {
+            id: "4",
             img: Image4,
             title: 'Manierismo',
             years: "1550–1610",
@@ -203,6 +207,7 @@ const movimientos = [
             ]
         },
         {
+            id: "5",
             img: Image5,
             title: 'Renacimiento del Norte de Europa',
             years: "1400-1600",
@@ -241,6 +246,7 @@ const movimientos = [
             ]
         },
         {
+            id: "6",
             img: Image6,
             title: 'Barroco',
             years: "1600-1750",
@@ -279,6 +285,7 @@ const movimientos = [
             ]
         },
         {
+            id: "7",
             img: Image7,
             title: 'Rococó',
             years: "1720-1780",
@@ -317,6 +324,7 @@ const movimientos = [
             ]
         },
         {
+            id: "8",
             img: Image8,
             title: 'Neoclasicismo',
             years: "1750-1820",
@@ -355,6 +363,7 @@ const movimientos = [
             ]
         },
         {
+            id: "9",
             img: Image9,
             title: 'Romanticismo',
             years: "1790-1880",
@@ -393,6 +402,7 @@ const movimientos = [
             ]
         },
         {
+            id: "10",
             img: Image10,
             title: 'Realismo',
             years: "1840–1870",
@@ -431,6 +441,7 @@ const movimientos = [
             ]
         },
         {
+            id: "11",
             img: Image11,
             title: 'Impresionismo',
             years: "1872-1882",
@@ -469,6 +480,7 @@ const movimientos = [
             ]
         },
         {
+            id: "12",
             img: Image12,
             title: 'Postimpresionismo',
             years: "1880-1910",
@@ -507,6 +519,7 @@ const movimientos = [
             ]
         },
         {
+            id: "13",
             img: Image13,
             title: 'Simbolismo',
             years: "1880-1910",
@@ -545,6 +558,7 @@ const movimientos = [
             ]
         },
         {
+            id: "14",
             img: Image14,
             title: 'Primitivismo',
             years: "1885",
@@ -583,6 +597,7 @@ const movimientos = [
             ]
         },
         {
+            id: "15",
             img: Image15,
             title: 'Art Nouveau',
             years: "1890-1905",
@@ -621,6 +636,7 @@ const movimientos = [
             ]
         },
         {
+            id: "16",
             img: Image16,
             title: 'Art Decó',
             years: "1900-1945",
@@ -659,6 +675,7 @@ const movimientos = [
             ]
         },
         {
+            id: "17",
             img: Image17,
             title: 'Orientalismo',
             years: "1750-1956",
@@ -697,6 +714,7 @@ const movimientos = [
             ]
         },
         {
+            id: "18",
             img: Image18,
             title: 'Fauvismo',
             years: "1905-1908",
@@ -735,6 +753,7 @@ const movimientos = [
             ]
         },
         {
+            id: "19",
             img: Image19,
             title: 'Futurismo',
             years: "1909-1920",
@@ -773,6 +792,7 @@ const movimientos = [
             ]
         },
         {
+            id: "20",
             img: Image20,
             title: 'Expresionismo',
             years: "1905-1933",
@@ -811,6 +831,7 @@ const movimientos = [
             ]
         },
         {
+            id: "21",
             img: Image21,
             title: 'Cubismo',
             years: "1907-1917",
@@ -849,6 +870,7 @@ const movimientos = [
             ]
         },
         {
+            id: "22",
             img: Image22,
             title: 'Dadaísmo',
             years: "1916-1923",
@@ -887,6 +909,7 @@ const movimientos = [
             ]
         },
         {
+            id: "23",
             img: Image23,
             title: 'Nueva Objetividad',
             years: "1919-1933",
@@ -925,6 +948,7 @@ const movimientos = [
             ]
         },
         {
+            id: "24",
             img: Image24,
             title: 'Suprematismo',
             years: "1913-1922",
@@ -963,6 +987,7 @@ const movimientos = [
             ]
         },
         {
+            id: "25",
             img: Image25,
             title: 'Constructivismo',
             years: "1915-1935",
@@ -1001,6 +1026,7 @@ const movimientos = [
             ]
         },
         {
+            id: "26",
             img: Image26,
             title: 'Arte Abstracto',
             years: "1910",
@@ -1039,6 +1065,7 @@ const movimientos = [
             ]
         },
         {
+            id: "27",
             img: Image27,
             title: 'Pintura Metafisica',
             years: "1911",
@@ -1077,6 +1104,7 @@ const movimientos = [
             ]
         },
         {
+            id: "28",
             img: Image28,
             title: 'Surrealismo',
             years: "1924-1966",
@@ -1115,6 +1143,7 @@ const movimientos = [
             ]
         },
         {
+            id: "29",
             img: Image29,
             title: 'Orfismo',
             years: "1911-1914",
@@ -1153,6 +1182,7 @@ const movimientos = [
             ]
         },
         {
+            id: "30",
             img: Image30,
             title: 'Neoplasticismo',
             years: "1917-1931",
@@ -1191,158 +1221,7 @@ const movimientos = [
             ]
         },
         {
-            img: Image27,
-            title: 'Pintura Metafisica',
-            years: "1911",
-            paragraph: "La pintura metafísica (en italiano: Pittura metafísica) es un movimiento artístico genuinamente italiano que quiere mostrar pictóricamente una atmósfera onírica ubicada en plazas italianas desiertas, mezcladas con casuales yuxtaposiciones de objetos, enlazando todo con la mente inconsciente, más allá de la realidad física, de ahí el nombre metafísica. Evidentemente esto fue un influencia detereminante para el movimiento surrealista que surgiría años después. Lo metafísicos pretendieron explorar la vida interior del subconsciente mezclada con objetos cotidianos representados fuera de los contextos habituales. Esto da lugar a una especie de sueño pintado, un sueño bastante lúcido teniendo en cuenta el naturalismo de los objetos y arquitecturas, y el ser representados en espacios concretos. Se muestra una realidad ilógica pero verosímil. Una lógica alternativa, por así decirlo. En medio de una guerra mundial, los artistas muestran espacios misteriosamente quietos y tranquilos, silenciosos. Como apacibles sueños en color.",
-            obras: [
-            {
-                title: "La canción de amor",
-                author: "Giorgio de Chirico",
-                location: "Italia, 1914"
-            },
-            {
-                title: "Héctor y Andrómaca",
-                author: "Giorgio de Chirico",
-                location: "Italia, 1917"
-            },
-            {
-                title: "La melancolía de la partida",
-                author: "Giorgio de Chirico",
-                location: "Italia, 1916"
-            },
-            {
-                title: "Beethoven",
-                author: "Felice Casorati",
-                location: "Italia, 1928"
-            },
-            {
-                title: "La casa roja",
-                author: "Carlo Carrá",
-                location: "Italia, 1927"
-            },
-            {
-                title: "Naturaleza muerta, de Morandi",
-                author: "Giorgio Morandi",
-                location: "Italia, 1943"
-            }
-            ]
-        },
-        {
-            img: Image28,
-            title: 'Surrealismo',
-            years: "1924-1966",
-            paragraph: "André Breton fue el gurú del surrealismo. Poeta de vocación, se unió al dadaísmo, pero al perder fuelle este movimiento decidió que había que continuarlo mediante una base teórica sólida. Breton había sido camillero en hospitales psiquiátricos durante la guerra, y ahí conoció tanto la obra de Sigmund Freud como conoció la extraña realidad oculta tras la locura. Breton quería, con esa locura como herramienta, unir eso de Rimbaud de «cambiar la vida» con eso de Marx de «transformar el mundo». Nace así el surrealismo que según su líder «se basa en la creencia en la realidad superior de ciertas formas de asociación desdeñadas hasta la aparición del mismo y en el libre ejercicio del pensamiento. Tiende a destruir definitivamente todos los restantes mecanismos psíquicos y a sustituirlos en la resolución de los principales problemas de la vida». En principio, esta vanguardia, aún viva hoy en día, quería incorporar los conceptos psicoanalíticos de Sigmund Freud a la mentalidad Dadá. De Freud interesaba sobre todo su investigación sobre el importante papel del subconsciente en el comportamiento humano, y por tanto en su faceta creativa. Por ello los surrealistas empezaron a dejar al subconsciente trabajar, ya fuera mediante escritura o pintura automática, por plasmar sueños, por regresar a la infancia… en definitiva por ser libre y espontáneo. Acceder al subconsciente significaba mostrar pensamientos y deseos indecorosos, plasmar imágenes chocantes para exponer la depravación del ser humano, disfrazado de civilizado por la sociedad burguesa. El surrealismo en el arte: En sus comienzos el surrealismo era un proyecto esencialmente literario, pero poco a poco fue infectando a las demás disciplinas artísticas (pintura, escultura, fotografía, cine…). Como eso del subconsciente es algo tremendamente personal, no hay un «estilo surrealista». Cada autor lo vivía a su manera, pero podemos distinguir en líneas generales dos formas de arte surrealista: Una automática, espontánea y fluída, con universos figurativos propios. Una naturalista, que muestra con figuración a veces hiperrealista el mundo de los sueños y el inconsciente. El arte surrealista suele ser incongruente, onírico y muy original, en el sentido que el artista muestra su faceta más individual, aunque es curioso, pues el arte surrealista tiene algo universal, que todos podemos entender. Hasta los niños pueden captar si algo es surrealista o no. Con el movimiento ya establecido en los años 30, y con los más extraordinarios artistas apoyándolo, Breton se convirtió en una especie de papa. Tan celoso era de la pureza de su teoría que realizaría purgas a todo aquel que cuestionara sus postulados. Serían expulsados del movimiento figuras tan brillantes como Dalí o Artaud.",
-            obras: [
-            {
-                title: "Los valores personales",
-                author: "René Magritte",
-                location: "Bélgica, 1951"
-            },
-            {
-                title: "Reminiscencia Arqueológica Del Angelus De Millet",
-                author: "Salvador Dali",
-                location: "España, 1934"
-            },
-            {
-                title: "Gato y pájaro",
-                author: "Paul Klee",
-                location: "Alemania, 1928"
-            },
-            {
-                title: "Extinción de luces inútiles",
-                author: "Yves Tanguy",
-                location: "Francia, 1927"
-            },
-            {
-                title: "Cacatúa Juan Gris N°4",
-                author: "Joseph Cornell",
-                location: "Estados Unidos, 1954"
-            },
-            {
-                title: "El hombre que camina",
-                author: "Alberto Giacometti",
-                location: "Suiza, 1961"
-            }
-            ]
-        },
-        {
-            img: Image29,
-            title: 'Orfismo',
-            years: "1911-1914",
-            paragraph: "Guillaume Apollinaire bautiza en 1913 a esta tendencia colorista y abstracta del cubismo parisino que exalta ante todo el color y la luz. Lo hace en parte para distanciarse del frenesí futurista que estaba arrasando París y que él consideraba «una bobada». El Orfismo viene de Orfeo, tan virtuoso con la lira que conectaba con el alma. El arte de esta gente pretendía precisamente eso: cuadros que vibraran en armonía y tono, como una composición musical. Esto conecta con los postulados del arte abstracto, que se había inspirado en la música, y de hecho el orfismo es considerado una pre-abstracción, ya que la música, sino está acompañada de palabras, es absolutamente abstracta. Prescindir de elementos figurativos y trabajar solo con color y luz, ese era la idea. De hecho, en las obras orfistas a veces no se sabe de qué se está hablando. A veces son formas indefinibles en las que el color es el único tema del cuadro, por lo que están incluidas en el eterno debate de cuál fue la primera obra abstracta.",
-            obras: [
-            {
-                title: "La Ciudad",
-                author: "Fernand Leger",
-                location: "Francia, 1919"
-            },
-            {
-                title: "Adoración",
-                author: "Diego Rivera",
-                location: "México, 1913"
-            },
-            {
-                title: "Pesca (pescadores)",
-                author: "Natalia Goncharova",
-                location: "Rusia, 1909"
-            },
-            {
-                title: "La taladradora",
-                author: "Frantisek Kupka",
-                location: "República Checa, 1929"
-            },
-            {
-                title: "Ritmo infinito",
-                author: "Robert Delaunay",
-                location: "Francia, 1934"
-            },
-            {
-                title: "Mujer portuguesa",
-                author: "Robert Delaunay",
-                location: "Francia, 1916"
-            }
-            ]
-        },
-        {
-            img: Image30,
-            title: 'Neoplasticismo',
-            years: "1917-1931",
-            paragraph: "O constructivismo holandés también llamado De Stijl. Es un nuevo (neo) enfoque de las artes plásticas (plasticismo) basado en relaciones universales. ¡Qué difícil es destilar todo lo que sabemos y sentimos en un sistema simplificado! Pues eso intento Piet Mondrian. Uniendo cubismo y teosofía, reivindicó un proceso de abstracción progresiva donde las formas se irían reduciendo a líneas rectas horizontales y verticales, y los colores a los tres primarios, el blanco y el negro. No existe la profundidad, no existe ningún tipo de referencia figurativa, no existe ni siquiera una simbología. El neoplasticismo es arte puro: línea y color, unidas en un mismo espacio. Para los neoplasticistas era imprescindible rechazar cualquier motivo reconocible, no se debía imitar la vida real. Consideraban que el arte forma ya parte de la vida real, así que no es necesaria su imitación. La abstracción en este y otros estilos, coincidentes en el tiempo en Europa, era una forma de contribuir a un mundo nuevo y mejor después de una horrible guerra mundial… Aunque quedaba por venir otra…",
-            obras: [
-            {
-                title: "Broadway Boogie Woogie",
-                author: "Piet Mondrian",
-                location: "Países Bajos, 1943"
-            },
-            {
-                title: "Composición en Blanco y Negro",
-                author: "Piet Mondrian",
-                location: "Países Bajos, 1917"
-            },
-            {
-                title: "Composición en rojo, amarillo y azul",
-                author: "Piet Mondrian",
-                location: "Países Bajos, 1921"
-            },
-            {
-                title: "Entender a Mondrian: Naturaleza muerta con tarro de jengibre",
-                author: "Piet Mondrian",
-                location: "Países Bajos, 1912"
-            },
-            {
-                title: "Bosque",
-                author: "Piet Mondrian",
-                location: "Países Bajos, 1908"
-            },
-            {
-                title: "De Stijl 1",
-                author: "Peter Keler",
-                location: "Alemania, 1922"
-            }
-            ]
-        },
-        {
+            id: "31",
             img: Image31,
             title: 'Precisionismo',
             years: "1920-1932",
@@ -1381,6 +1260,7 @@ const movimientos = [
             ]
         },
         {
+            id: "32",
             img: Image32,
             title: 'Expresionismo Abstracto',
             years: "1943-1965",
@@ -1419,6 +1299,7 @@ const movimientos = [
             ]
         },
         {
+            id: "33",
             img: Image33,
             title: 'Art Brut',
             years: "1945",
@@ -1447,6 +1328,7 @@ const movimientos = [
             ]
         },
         {
+            id: "34",
             img: Image34,
             title: 'Informalismo',
             years: "1950-1960",
@@ -1485,6 +1367,7 @@ const movimientos = [
             ]
         },
         {
+            id: "35",
             img: Image35,
             title: 'Nueva Figuración',
             years: "1945-1970",
@@ -1523,6 +1406,7 @@ const movimientos = [
             ]
         },
         {
+            id: "36",
             img: Image36,
             title: 'Arte Cinético',
             years: "1954",
@@ -1551,6 +1435,7 @@ const movimientos = [
             ]
         },
         {
+            id: "37",
             img: Image37,
             title: 'Op-Art',
             years: "1964",
@@ -1589,6 +1474,7 @@ const movimientos = [
             ]
         },
         {
+            id: "38",
             img: Image38,
             title: 'Pop-Art',
             years: "1955-1980",
@@ -1627,6 +1513,7 @@ const movimientos = [
             ]
         },
         {
+            id: "39",
             img: Image39,
             title: 'Nouveau Réalisme',
             years: "1960-1970",
@@ -1665,6 +1552,7 @@ const movimientos = [
             ]
         },
         {
+            id: "40",
             img: Image40,
             title: 'Nuevo Realismo',
             years: "1929",
@@ -1703,6 +1591,7 @@ const movimientos = [
             ]
         },
         {
+            id: "41",
             img: Image41,
             title: 'Realismo social',
             years: "1929-1955",
@@ -1741,6 +1630,7 @@ const movimientos = [
             ]
         },
         {
+            id: "42",
             img: Image42,
             title: 'Arte conceptual',
             years: "1960",
@@ -1779,6 +1669,7 @@ const movimientos = [
             ]
         },
         {
+            id: "43",
             img: Image43,
             title: 'Minimalismo',
             years: "1960-1970",
@@ -1807,6 +1698,7 @@ const movimientos = [
             ]
         },
         {
+            id: "44",
             img: Image44,
             title: 'Acción',
             years: "1960",
@@ -1845,6 +1737,7 @@ const movimientos = [
             ]
         },
         {
+            id: "45",
             img: Image45,
             title: 'Hiperrealismo',
             years: "1965",
@@ -1883,6 +1776,7 @@ const movimientos = [
             ]
         },
         {
+            id: "46",
             img: Image46,
             title: 'Postmodernidad',
             years: "1975",
@@ -1921,6 +1815,7 @@ const movimientos = [
             ]
         },
         {
+            id: "47",
             img: Image47,
             title: 'Street Art',
             years: "1975",
@@ -1959,6 +1854,7 @@ const movimientos = [
             ]
         },
         {
+            id: "48",
             img: Image48,
             title: 'Land Art',
             years: "1968",
@@ -1992,6 +1888,7 @@ const movimientos = [
             ]
         },
         {
+            id: "49",
             img: Image49,
             title: 'Arte Povera',
             years: "1967-2020",
@@ -2021,15 +1918,10 @@ const movimientos = [
                 title: "Concepto espacial, espera",
                 author: "Lucio Fontana",
                 location: "Italia, 1964"
-            },
-            {
-                title: "",
-                author: "",
-                location: ""
             }
             ]
         }
         
 ]
 
-export default movimientos;
+export default Movimientos;
